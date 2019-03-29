@@ -1,0 +1,9 @@
+Palette colors:
+https://coolors.co/000000-ffffff-92374d-f1ab86-cddddd
+
+Fonts:
+<link href="https://fonts.googleapis.com/css?family=Glass+Antiqua|Inknut+Antiqua|Montserrat|Raleway" rel="stylesheet">
+font-family: 'Glass Antiqua', cursive;
+font-family: 'Raleway', sans-serif;
+font-family: 'Inknut Antiqua', serif;
+font-family: 'Montserrat', sans-serif;

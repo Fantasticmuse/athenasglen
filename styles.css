@@ -1,0 +1,125 @@
+/* Elements */
+h1 {
+  font-family: 'Glass Antiqua', cursive;
+}
+
+h4 {
+  font-family: 'Glass Antiqua', cursive;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+}
+
+a {
+  font-family: 'Raleway', sans-serif;
+}
+
+.nav-item a:link{
+  color: #f4e3b2;
+}
+
+.nav-item a:visited{
+  color: #f4e3b2;
+}
+
+.nav-item a:hover{
+  color: #f4e3b2;
+}
+
+span {
+  font-family: 'Raleway', sans-serif;
+}
+
+/* Heading */
+.heading {
+  text-align: center;
+  background-color: #cf5c36;
+  Color: #f4e3b2;
+  padding-top: 0px;
+}
+
+.nav-item a:link{
+  color: #f4e3b2;
+}
+
+.nav-item a:visited{
+  color: #f4e3b2;
+}
+
+.nav-item a:hover{
+  color: #f4e3b2;
+}
+
+.heading img{
+  width: 50px;
+  float: center;
+  margin-right: 15px;
+}
+
+.navbar {
+  background-color: #cf5c36;
+}
+
+/* Features Carousel */
+.d-block {
+  height: 100px;
+  vertical-align: center;
+}
+
+.carousel-item {
+  padding: 0 15%;
+  vertical-align: center;
+}
+
+#carousel-prime {
+  margin-left:auto;
+  margin-right: auto;
+  margin-top: 10px;
+  text-align: center;
+  background-color: #efc88b;
+  color: #cf5c36;
+  width: 55%;
+  height: 200px;
+  vertical-align: center;
+}
+
+.my-carousel {
+  margin-bottom: 5%;
+  vertical-align: center;
+}
+
+
+/* card deck */
+.card-img {
+  height: 50px;
+}
+
+.card-body{
+  text-align: center;
+}
+
+.card-body a:link{
+  color: #cf5c36;
+}
+
+.card-body a:visited{
+  color: #cf5c36;
+}
+
+.card-body a:hover{
+  color: #cf5c36;
+}
+/* foot */
+
+.bottom {
+  background-color: #cf5c36;
+  display: block;
+  position: relative;
+  bottom: 0;
+  height: 50px;
+  width: 100%;
+  text-align: center;
+  color: #efc88b;
+  vertical-align: bottom;
+}
