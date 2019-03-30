@@ -28,15 +28,16 @@ span {
 }
 
 .nav-item a:link{
-  color: #f4e3b2;
+  color: #ffffff;
 }
 
 .nav-item a:visited{
-  color: #f4e3b2;
+  color: #ffffff;
 }
 
 .nav-item a:hover{
-  color: #f4e3b2;
+  color: #ffffff;
+  text-decoration: underline;
 }
 
 .heading img{
