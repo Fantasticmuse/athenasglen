@@ -15,18 +15,6 @@ a {
   font-family: 'Raleway', sans-serif;
 }
 
-.nav-item a:link{
-  color: #f4e3b2;
-}
-
-.nav-item a:visited{
-  color: #f4e3b2;
-}
-
-.nav-item a:hover{
-  color: #f4e3b2;
-}
-
 span {
   font-family: 'Raleway', sans-serif;
 }
@@ -34,8 +22,8 @@ span {
 /* Heading */
 .heading {
   text-align: center;
-  background-color: #cf5c36;
-  Color: #f4e3b2;
+  background-color: #470024;
+  Color: #ffffff;
   padding-top: 0px;
 }
 
@@ -55,10 +43,11 @@ span {
   width: 50px;
   float: center;
   margin-right: 15px;
+  background-color: #a29587;
 }
 
 .navbar {
-  background-color: #cf5c36;
+  background-color: #470024;
 }
 
 /* Features Carousel */
@@ -77,8 +66,8 @@ span {
   margin-right: auto;
   margin-top: 10px;
   text-align: center;
-  background-color: #efc88b;
-  color: #cf5c36;
+  background-color: #a29587;
+  color: #000000;
   width: 55%;
   height: 200px;
   vertical-align: center;
@@ -100,26 +89,26 @@ span {
 }
 
 .card-body a:link{
-  color: #cf5c36;
+  color: #470024;
 }
 
 .card-body a:visited{
-  color: #cf5c36;
+  color: #470024;
 }
 
 .card-body a:hover{
-  color: #cf5c36;
+  color: #470024;
 }
 /* foot */
 
 .bottom {
-  background-color: #cf5c36;
+  background-color: #470024;
   display: block;
   position: relative;
   bottom: 0;
   height: 50px;
   width: 100%;
   text-align: center;
-  color: #efc88b;
+  color: #ffffff;
   vertical-align: bottom;
 }
